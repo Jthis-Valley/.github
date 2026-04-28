@@ -75,9 +75,5 @@ Whether you're an entrepreneur, a company looking for tailored digital solutions
 **Stop competing. Start leading.**  
 Let's build the future faster — with intelligence, automation, and purpose.
 
-📧 **Contact us:** contact@jthisvalley.com  
-🌐 **Website:** [www.jthisvalley.com](https://www.jthisvalley.com)
-
----
-
-_#NextGenSaaS #HighPerformanceWeb #WebEcosystems #WebInnovation #DigitalCapability #AIAutomation_
+📧 **Contact us:** contact@jthis-valley.com  
+🌐 **Website:** [www.jthis-valley.com](https://www.jthis-valley.com)
